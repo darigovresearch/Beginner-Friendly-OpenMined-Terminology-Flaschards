@@ -46,7 +46,7 @@ addTwoNumbers(1, -2);  // ""-1""
 </ul>
 <p>The image below is a very simple neural network. If you’re still confused, just think of a neural network as “a graph structure that represents how a deep learning network learns”. Think of a “layer” as a single column in that graph.</p>
 <div align=""center"">
-    <a target=""_blank"" rel=""noopener noreferrer"" href=""/darigovresearch/OM-Welcome-Package/blob/master/images/nn.png""><img alt=""Neural Network Diagram"" src=""/darigovresearch/OM-Welcome-Package/raw/master/images/nn.png"" width=""280"" style=""max-width</a>:100%;"">
+    <a target=""_blank"" rel=""noopener noreferrer"" href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/images/nn.png""><img alt=""Neural Network Diagram"" src=""https://github.com/OpenMined/OM-Welcome-Package/raw/master/images/nn.png"" width=""280"" style=""max-width</a>:100%;"">
 </div>
 "
 <a id=""user-content-model"" href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md#model"">Model</a> (Beginner Friendly OpenMined Terminology)|"
