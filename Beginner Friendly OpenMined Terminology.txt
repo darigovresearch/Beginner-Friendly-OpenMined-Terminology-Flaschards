@@ -37,7 +37,7 @@ addTwoNumbers(1, -2);  // ""-1""
 "
 <h4><a id=""user-content-neural-network-also-called-nn"" class=""anchor"" aria-hidden=""true"" href=""#neural-network-also-called-nn"">Neural Network (also called “NN”)</a></h4>|"
 <p>A neural network is the combination of multiple “layers” into a graph of multiple algorithms. Think of this as a flow from the left side (your inputs), to the middle (your layers, or graph of algorithms), to the right side (your outputs). You can also think of a neural network as a list of operations for a deep learning network (from left to right):</p>
-<ul>
+<ul align=""left"">
 <li>Inputs</li>
 <li>Algorithm 1</li>
 <li>Algorithm 2</li>
