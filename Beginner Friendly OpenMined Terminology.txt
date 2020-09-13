@@ -1,5 +1,20 @@
-<a id=""user-content-introduction"" href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md#introduction"">Introduction</a> (Beginner Friendly OpenMined Terminology)|"
-<p>There is nothing easy about what we’re doing here at OpenMined. Likewise, many people within our community are not machine learning engineers professionally. The following is a list of common technical terms one might hear when working inside this community.</p>
+Introduction (Beginner Friendly OpenMined Terminology)|"
+<p>This deck has taken definitions outlined in <a href=""https://github.com/openmined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by OpenMined and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"" rel=""nofollow"">Anki</a> a cross platform app specifically designed for long term knowledge retention. See the <a id=""user-content-introduction"" href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md#introduction"">original introduction</a> of the terms quoted below and our notes for these flashcards.</p>
+
+<i><p>There is nothing easy about what we’re doing here at OpenMined. Likewise, many people within our community are not machine learning engineers professionally. The following is a list of common technical terms one might hear when working inside this community.</p></i>
+
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Beginner Friendly OpenMined Terminology)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/""></a><a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/"">https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the OpenMined <a href=""https://github.com/openmined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">""Beginner Friendly OpenMined Terminology""</a>, which is released under the <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/LICENSE.md"">Apache License 2.0</a>.</p>
+<p>To see this work in full go to <a href=""https://github.com/openmined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">https://github.com/openmined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md</a></p>
+
 "
 <a id=""user-content-function-also-called-method"" href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md#function-also-called-method"">Function (also called “Method”)</a> (Beginner Friendly OpenMined Terminology)|"
 <p>Any block of code that can be run multiple times. For instance:</p>
