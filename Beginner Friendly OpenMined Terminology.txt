@@ -122,7 +122,8 @@ addTwoNumbers(1, -2);  // ""-1""
 <p>Hackers! Pen testing is the process of attempting to hack into a system (intentionally, with the system manager’s permission) so that security holes may be determined. Often, software projects or companies will hire pen testers to intentionally hack their own systems (and pay them well to do it…) so that they may protect themselves better from real-world security attacks. There’s a pen testing team at OpenMined, who tries to break the code our community has written so that we can be confident of deploying our software into production systems.</p>
 "
 <a id=""user-content-gradient-descent"" href=""#gradient-descent"">Gradient Descent</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-hyperparameter"" href=""#hyperparameter"">Hyperparameter</a> (Beginner Friendly OpenMined Terminology)|"
 <p>Like a parameter but is usually something that you adjust in a model that effects the way the model behaves.</p>
@@ -137,22 +138,28 @@ addTwoNumbers(1, -2);  // ""-1""
 <p>Usually an upper and lower bound on a model or prediction. For example a model returns that the probablility of an event occuring is 0.8 plus or minus 10%.</p>
 "
 <a id=""user-content-learning-rate"" href=""#learning-rate"">Learning Rate</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-accuracy"" href=""#accuracy"">Accuracy</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-loss"" href=""#loss"">Loss</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-error-rate"" href=""#error-rate"">Error Rate</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-back-propagation"" href=""#back-propagation"">Back Propagation</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-forward-propagation"" href=""#forward-propagation"">Forward Propagation</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-tokenization"" href=""#tokenization"">Tokenization</a> (Beginner Friendly OpenMined Terminology)|"
 <p>This has two definitions depending on the field you are talking about. In Data Security it is a way to represent sensitive information in a way that allows it to be used in computation but protects the original source. For example tokens are often used instead of your actual password when interacting with certain programs on the internet. In Natural Language Processing (NLP) it is a technique where you break down a sentence or words into it's core meaning to make it easier to analyse. For example labelling words to be nouns, verbs, adjectives or the like.</p>
@@ -161,13 +168,16 @@ addTwoNumbers(1, -2);  // ""-1""
 <p>A type of encryption that allows you to be able to do some computation on data without needing to decrypt it. The benefits of that is you don't need to store any sensitive data.</p>
 "
 <a id=""user-content-secure-multi-party-computation-also-called-smpc"" href=""#secure-multi-party-computation-also-called-smpc"">Secure Multi-Party Computation (also called “SMPC”)</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-differential-privacy"" href=""#differential-privacy"">Differential Privacy</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-secure-aggregation"" href=""#secure-aggregation"">Secure Aggregation</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-plan"" href=""#plan"">Plan</a> (Beginner Friendly OpenMined Terminology)|"
 <p>A plan is what’s created when you want to turn a function into a string of text. Why would you want to do this? If you’re trying to run machine learning code in two different environments (like a web browser and a server, for instance), the languages that are used in these two environments are going to be different. A plan allows you to zip up your code in one environment and allow it to be understood by another environment. This is, of course, an oversimplification, but just understand that plans are an integral piece of the OpenMined ecosystem.</p>
@@ -242,7 +252,8 @@ addTwoNumbers(1, -2);  // ""-1""
 <p>Javascript can’t understand Python and vice-versa. To get a PySyft plan (using PyTorch) to be understood by Javascript, it must be run through Threepio first, so that syft.js may execute the appropriate commands in TensorFlow.js. If this is still confusing, think of this as a “translation layer between deep learning frameworks in multiple languages”.</p>
 "
 <a id=""user-content-crypten"" href=""#crypten"">Crypten</a> (Beginner Friendly OpenMined Terminology)|"
-<p><em>(Coming Soon)</em></p>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards"">project</a> or even better improve the original source <a href=""https://github.com/OpenMined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md"">Beginner Friendly OpenMined Terminology</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 <a id=""user-content-tenseal"" href=""#tenseal"">TenSEAL</a> (Beginner Friendly OpenMined Terminology)|"
 <p>TenSEAL is a library for doing homomorphic encryption operations on tensors, built on top of Microsoft SEAL. It provides ease of use through a Python API, while preserving efficiency by implementing most of its operations using C++.</p>
