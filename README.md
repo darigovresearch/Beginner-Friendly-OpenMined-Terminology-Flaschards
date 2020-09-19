@@ -7,7 +7,7 @@ This repository has taken definitions outlined in [Beginner Friendly OpenMined T
 ## Notes
 Please note the modifications which have been made & where you can find updates.
 1. The front of every card has "(Beginner Friendly OpenMined Terminology)" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.
-2. Any updates or corrections to the deck will be available at <a href="https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/">https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/</a> so do return periodically to check if you have the latest version.
+2. Any updates, translations or corrections to the deck will be available at <a href="https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/">https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/</a> so do return periodically to check if you have the latest version.
 
 Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.
 
@@ -19,6 +19,7 @@ Watch our video on an Introduction to Anki for a complete overview -> [https://w
 ## Potential Improvements Yet to be Made
 1. To find a way to systematically pull the definitions from the source so that any corrections or additions are automatically updated.
 2. To be able to automatically sort the cards so that the words which are used most in the original work is displayed first for the user to learn.
+3. To translate the deck into different languages so people around the world can learn about the topic. All translations will be found in the link above & we are happy to incorporate any translations that have been submitted.
 
 ## Contributing
 Pull requests, corrections & fixes are welcome. Any contributions must be submitted under the same license that the original piece of work (see below). Take a look at any open issues or submit new ones if there is something that needs to be fixed or added.
@@ -29,3 +30,15 @@ Unless otherwise specified, everything in this repository is covered by the foll
 This repository uses material from the OpenMined <a href="https://github.com/openmined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md">"Beginner Friendly OpenMined Terminology"</a>, which is released under the <a href="https://github.com/OpenMined/OM-Welcome-Package/blob/master/LICENSE.md">Apache License 2.0</a>.
 
 To see this work in full go to https://github.com/openmined/OM-Welcome-Package/blob/master/Beginner-Friendly-OM-Terms.md
+
+----
+
+<b>
+<div align="center">
+    The creation, maintenance and continued development of this project is made possible
+    <br>
+    thanks to our <a href="http://patreon.com/darigovresearch">Patreon</a> and <a href="https://www.darigovresearch.com/donate">Direct</a> supporters!
+    <br>
+    Consider joining them if you think this project has earned it!
+</div>
+</b>

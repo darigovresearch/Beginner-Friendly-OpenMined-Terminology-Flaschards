@@ -7,7 +7,7 @@ Introduction (Beginner Friendly OpenMined Terminology)|"
 <p>Please note the modifications which have been made &amp; where you can find updates.</p>
 <ol align=""left"">
 <li>The front of every card has ""(Beginner Friendly OpenMined Terminology)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
-<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/""></a><a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/"">https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/</a> so do return periodically to check if you have the latest version.</li>
+<li>Any updates, translations or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/""></a><a href=""https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/"">https://github.com/darigovresearch/Beginner-Friendly-OpenMined-Terminology-Flaschards/</a> so do return periodically to check if you have the latest version.</li>
 </ol>
 <p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
 <h2>License</h2>
